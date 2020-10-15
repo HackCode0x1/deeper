@@ -1,5 +1,5 @@
 # deeper
-pip install -r requirements.txt
+pip install -r requirements.txt\n
 Deeper CR With Style 
 Encripting Files With Aes and Rsa Public And Private Keys 
 Encript file or files in folder or subfolders or Partition
