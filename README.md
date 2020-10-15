@@ -17,7 +17,7 @@ Deeper Cr Shell Mode:
 
 Modes In Shell :
 
-Hashing ,Encript ,hashing with hmac ,crack hash dictionary and bruteforce
+Hashing ,Encript ,hashing with hmac ,crack hash dictionary and bruteforce attack
 
 System
 Linux Windows 
