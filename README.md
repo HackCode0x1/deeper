@@ -25,10 +25,9 @@ Auto Replace Spaces And Chars Like & () In Files
 System
 Linux Windows 
 
-<img src="scrren/s1.png">
-<img src="scrren/s2.png">
+<img src="scrren/s1.png">     <img src="scrren/s2.png">
 <img src="scrren/s3.png">
-<img src="scrren/s4.png">
+<img src="scrren/s6.png">
 
 
 
