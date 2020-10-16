@@ -32,7 +32,6 @@ Linux Windows
 <img src="scrren/s9dd.png">
 <img src="scrren/s10ss.png">
 <img src="scrren/s11.png">
-hashhmac
 <img src="scrren/s12.png">
 
 
