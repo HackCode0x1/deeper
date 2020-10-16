@@ -30,7 +30,7 @@ import hashlib
 from time import sleep, perf_counter
 import binascii
 from progressbar import AnimatedMarker, Bar, BouncingBar, Counter,FormatLabel ,ProgressBar  
-
+from itertools import product
 
 
 
@@ -524,6 +524,7 @@ def run(algorithm,PASSWORD,MODE,saveplace,publickey,privatekey,keylength,HashSal
 			print('[+] sha1 Hash')
 			print()
 			print(Hasher)
+		print()
 
 
 
@@ -793,7 +794,7 @@ def run(algorithm,PASSWORD,MODE,saveplace,publickey,privatekey,keylength,HashSal
 			print()
 			starttime=time.time()
 			pwdtries=0
-			for length in range(startpass,mix): 
+			for length in range(int(Min),int(Max)): 
 			    to_attempt = product(chars, repeat=length)
 			    for attempt in to_attempt:
 			        x = ''.join(attempt)
@@ -860,6 +861,7 @@ def run(algorithm,PASSWORD,MODE,saveplace,publickey,privatekey,keylength,HashSal
 				print (ast,"Closing  Time ",closetime)
 				print (ast,"Passwords Tried  ",pwdtries)
 				print (ast,"Average Speed ",pwdtries/(closetime-starttime))
+				print()
 			else:
 				print()	
 				print(Mrak,"Cracking Failed")
@@ -2837,8 +2839,6 @@ def main():
 
 								elif HashSalt=='':
 									print('Proived Hash Salt!')
-
-								
 
 								elif Chars=='':
 									print('Proived Chars!')
