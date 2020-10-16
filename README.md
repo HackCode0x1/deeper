@@ -7,17 +7,17 @@ pip install -r requirements.txt
 Deeper CR With Style 
 
 
-Encripting Files With Aes and Rsa Public And Private Keys 
+Encrypting Files With Aes and Rsa Public And Private Keys 
 
 
-Encript file or files in folder or subfolders or Partition
+Encrypt file or files in folder or subfolders or Partition
 
 
 Deeper Cr Shell Mode:
 
 Modes In Shell :
 
-Hashing ,Encript ,hashing with hmac ,crack hash dictionary and bruteforce attack
+Hashing ,Encrypt ,hashing with hmac ,crack hash dictionary and bruteforce attack
 
 Auto Replace Spaces And Chars Like & () In Files 
 
