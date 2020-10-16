@@ -19,6 +19,9 @@ Modes In Shell :
 
 Hashing ,Encript ,hashing with hmac ,crack hash dictionary and bruteforce attack
 
+Auto Replace Spaces And Chars Like & () In Files 
+
+
 System
 Linux Windows 
 
