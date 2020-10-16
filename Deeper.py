@@ -2838,13 +2838,12 @@ def main():
 								elif HashSalt=='':
 									print('Proived Hash Salt!')
 
-								elif wordlist=='':
-									print('Proived wordlist!')
+								
 
 								elif Chars=='':
 									print('Proived Chars!')
 
-								if Crhash !='' and HashSalt!='' and wordlist!='' and Max != None and Min!=None and Chars!='':
+								if Crhash !='' and HashSalt!='' and Max != None and Min!=None and Chars!='':
 									run(False,Crhash,'crackhash',False,False,False,False,HashSalt,wordlist,Crackmethod,Min,Max,Chars,verbose)
 									# Hashfile
 
