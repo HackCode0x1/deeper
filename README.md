@@ -1,7 +1,7 @@
 # deeper
 
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 
 Deeper CR With Style 
