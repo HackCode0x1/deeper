@@ -22,6 +22,7 @@ Hashing ,Encrypt ,hashing with hmac ,crack hash dictionary and bruteforce attack
 Auto Replace Spaces And Chars Like & () In Files 
 
 Updating 
+
 run python3 updater.py
 
 
