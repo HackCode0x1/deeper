@@ -836,7 +836,8 @@ def run(algorithm,PASSWORD,MODE,saveplace,publickey,privatekey,keylength,HashSal
 
 			        Passwords_Try = str(pwdtries)
 			        sys.stdout.write('\rPasswords Tested '+'({})'.format(Passwords_Try)) 
-			        sys.stdout.write("\033[F")
+				sys.stdout.flush()
+			        #sys.stdout.write("\033[F")
 
 			        if hashh in h:
 			            Cracked_Hash = x
