@@ -27,6 +27,7 @@ run python3 updater.py
 
 
 System
+
 Linux Windows 
 
 <img src="scrren/s1.png">     <img src="scrren/s2.png">
