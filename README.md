@@ -36,6 +36,7 @@ Linux Windows
 <img src="scrren/s6.png">
 <img src="scrren/s10.png">
 <img src="scrren/s11.png">
+<img src="scrren/s12.png">
 
 
 
